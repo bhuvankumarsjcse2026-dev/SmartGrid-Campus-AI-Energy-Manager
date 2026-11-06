@@ -8,5 +8,4 @@ AI energy management: monitor campus load, forecast the next 24 hours, flag peak
 Open the link shown (usually http://localhost:8501). Phones on the same Wi-Fi can open the "Network URL".
 ## Use your own data
 Upload a CSV in the sidebar: first column = timestamp, then one column per zone in kW (download the template from the sidebar). At least 3 days of readings.
-## Share it online (free)
-Push these files to a GitHub repo and deploy on Streamlit Community Cloud.
+
